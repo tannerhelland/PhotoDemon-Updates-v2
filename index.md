@@ -10,6 +10,6 @@
 
 **Developer:** <a id="pdv_start_developer"></a>{{ site.pd-nightly-v }}<a id="pdv_end_developer"></a>
 
- - <a id="pdra_developer" href="https://github.com/tannerhelland/PhotoDemon/commits/master">Review PhotoDemon's commit log</a>
+ - <a id="pdra_developer" href="https://github.com/tannerhelland/PhotoDemon/commits/main">Review PhotoDemon's commit log</a>
 
 To manually download a given PhotoDemon release, please visit [photodemon.org/download](https://photodemon.org/download)
