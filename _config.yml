@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+
+title: PhotoDemon automatic update interface
+tagline: the official automatic update server for PhotoDemon 7.2+
+locale: "en"
+author:
+   name: Tanner Helland
+   url: https://photodemon.org
+
+pd-stable-v: 2024.7.0.0
+pd-beta-v: 8.9.0.1707
+pd-nightly-v: 2024.8.0.23
+
